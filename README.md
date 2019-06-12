@@ -1,2 +1,4 @@
-# TestingPurposes
-idk tbh, you tell me
+# Fyre
+
+## What is Fyre?
+  Fyre is a small discord.js bot that specializes in moderation functions

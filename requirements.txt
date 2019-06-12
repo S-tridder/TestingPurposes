@@ -1,0 +1,6 @@
+Requirements: 
+Discord.js
+Snekfetch
+Superagent
+Urban
+RandomPuppy
